@@ -1,0 +1,54 @@
+img{
+    width: 900px;
+}
+body {
+    background-color: lightblue;
+}
+body {
+    color: #333; /* Sets text color to dark gray */
+    font-size: 2em; /* Sets font size to 2 times the default size */
+    font-family: Arial, sans-serif; /* Specifies font family */
+    text-align: center; /* Centers the text */
+}
+body {
+    color: #007bff; /* Sets default link color to blue */
+    text-decoration: none; /* Removes underline from links */
+}
+
+body:hover {
+    text-decoration: underline; /* Underlines links on hover */
+}
+
+body:visited {
+    color: #551a8b; /* Changes color of visited links */
+}
+
+body:focus {
+    outline: 2px solid #007bff; /* Adds focus outline to links */
+}
+body {
+    line-height: 1.5; /* Sets line height to 1.5 times the font size */
+    margin-bottom: 20px; /* Adds bottom margin of 20 pixels */
+}
+
+
+.box {
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    text-align: center;
+    line-height: 200px; /* Centering text vertically */
+    font-size: 20px;
+}
+
+.red {
+    background-color: #ffcccc;
+}
+
+.green {
+    background-color: #ccffcc;
+}
+
+.blue {
+    background-color: #ccccff;
+}
